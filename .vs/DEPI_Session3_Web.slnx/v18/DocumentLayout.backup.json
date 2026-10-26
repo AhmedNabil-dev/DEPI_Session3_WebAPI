@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Depi_fullstack\\Tech\\C#\\Web API\\Session 03\\DEPI_Session3_Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{899FB821-FB80-260A-60BE-EC4E1D8372CE}|DEPI_Session3_Web\\DEPI_Session3_Web.csproj|c:\\depi_fullstack\\tech\\c#\\web api\\session 03\\depi_session3_web\\depi_session3_web\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899FB821-FB80-260A-60BE-EC4E1D8372CE}|DEPI_Session3_Web\\DEPI_Session3_Web.csproj|solutionrelative:depi_session3_web\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899FB821-FB80-260A-60BE-EC4E1D8372CE}|DEPI_Session3_Web\\DEPI_Session3_Web.csproj|c:\\depi_fullstack\\tech\\c#\\web api\\session 03\\depi_session3_web\\depi_session3_web\\depi_session3_web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{899FB821-FB80-260A-60BE-EC4E1D8372CE}|DEPI_Session3_Web\\DEPI_Session3_Web.csproj|solutionrelative:depi_session3_web\\depi_session3_web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899FB821-FB80-260A-60BE-EC4E1D8372CE}|DEPI_Session3_Web\\DEPI_Session3_Web.csproj|c:\\depi_fullstack\\tech\\c#\\web api\\session 03\\depi_session3_web\\depi_session3_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899FB821-FB80-260A-60BE-EC4E1D8372CE}|DEPI_Session3_Web\\DEPI_Session3_Web.csproj|solutionrelative:depi_session3_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Depi_fullstack\\Tech\\C#\\Web API\\Session 03\\DEPI_Session3_Web\\DEPI_Session3_Web\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "DEPI_Session3_Web\\Extensions\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Depi_fullstack\\Tech\\C#\\Web API\\Session 03\\DEPI_Session3_Web\\DEPI_Session3_Web\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "DEPI_Session3_Web\\Extensions\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T18:52:32.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DEPI_Session3_Web",
+              "DocumentMoniker": "C:\\Depi_fullstack\\Tech\\C#\\Web API\\Session 03\\DEPI_Session3_Web\\DEPI_Session3_Web\\DEPI_Session3_Web.csproj",
+              "RelativeDocumentMoniker": "DEPI_Session3_Web\\DEPI_Session3_Web.csproj",
+              "ToolTip": "C:\\Depi_fullstack\\Tech\\C#\\Web API\\Session 03\\DEPI_Session3_Web\\DEPI_Session3_Web\\DEPI_Session3_Web.csproj",
+              "RelativeToolTip": "DEPI_Session3_Web\\DEPI_Session3_Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-26T18:52:31.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Depi_fullstack\\Tech\\C#\\Web API\\Session 03\\DEPI_Session3_Web\\DEPI_Session3_Web\\Program.cs",
+              "RelativeDocumentMoniker": "DEPI_Session3_Web\\Program.cs",
+              "ToolTip": "C:\\Depi_fullstack\\Tech\\C#\\Web API\\Session 03\\DEPI_Session3_Web\\DEPI_Session3_Web\\Program.cs",
+              "RelativeToolTip": "DEPI_Session3_Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T12:24:36.163Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
